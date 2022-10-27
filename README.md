@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning React <br><br>I have knowledge in HTML, CSS, JQUERY, JAVASCRIPT, BOOTSTRAP<br>
+<br>🌱 I’m currently learning TypeScript <br><br>I have knowledge in HTML, CSS, JQUERY, JAVASCRIPT, BOOTSTRAP, REACT<br>
 
 
 ## 🌐 Socials:
